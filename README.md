@@ -1,6 +1,6 @@
 ## Improve My Writing
 
-This plugins helps us writing better text using ChatGPT. It's a super draft code created for me to lear more about Gutenberg and ChatGPT.
+This plugin helps us write better text using ChatGPT. It's a superbly crafted code created for me to learn more about Gutenberg and ChatGPT.
 
 <img width="1334" alt="image" src="https://user-images.githubusercontent.com/1044309/234110557-a5fdcd53-0dfa-4a62-98c4-ffbccf293843.png">
 
